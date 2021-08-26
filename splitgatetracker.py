@@ -1,3 +1,7 @@
+"""
+Sloppy Coding By : JokaIsAwful
+"""
+
 from requests import get, post, head
 from time import time
 SECRET="APIKEYHERE"
